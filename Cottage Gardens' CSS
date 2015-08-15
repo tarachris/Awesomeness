@@ -1,0 +1,37 @@
+html { 
+background: url("wildflower.jpg") no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+ul {
+text-align: center;
+}
+li {
+display: inline;
+text-align: center;
+}
+a:link, a:visited, hover {
+display: inline;
+font-weight: bold;
+font-size: 23px;
+color: #FFFFFF;
+background-color: none;
+text-align: center;
+padding: 10px;
+text-decoration: none;
+text-transform: lowercase;
+}
+a:hover, a:active {
+background-color: #66FF66; 
+}
+#menu {
+text-align: center;
+}
+h5 {
+font-family: Medio Bold;
+color: #FFFFFF;
+font-size: 60px;
+text-align: center;
+}
