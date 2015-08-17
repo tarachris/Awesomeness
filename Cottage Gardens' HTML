@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Cottage Gardens</title>
+  <link rel="stylesheet" type="text/css" href="mystyle.css" />
+</head>
+
+<body>
+  <h2>
+		<div id="icons">
+		<a href="http://www.twitter.com/Tchriswill" title="Twitter.com">
+		<img src="twitter.png" width="40" height="40" align="left">
+		<a href="http://www.facebook.com" title="Facebook" align="left">
+		<img src="facebook.png" width="40" height="40" align="left">
+		<a href="http://www.pinterest.com" align="left">
+		<img src="pinterest.png" width="40" height="40" align="left">
+		<img src="instagram.png" width="40" height="40" align="left">
+		</div>
+		</h2>
+  <h5>Cottage Gardens</h5>
+  <div id="menu">
+    <ul>
+      <li><a href="#flower">Flowers</a></li>
+      <li><a href="#advice">Advice</a>
+        <li>
+          <li><a href="#contact">Contact</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="search">Search</a></li>
+    </ul>
+  </div>
+  <script src="jquery.js"></script>
+  <script src="tarajs.js"></script>
+</body>
+
+</html>
